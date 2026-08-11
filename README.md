@@ -6,9 +6,8 @@
   ### Building production-grade ML architectures, predictive intelligence systems, and secure AI integrations.
 
   <p align="center">
-    <a href="https://frostglyph.com"><img src="https://img.shields.io/badge/Portfolio-FrostGlyph-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="FrostGlyph"/></a>
+    <a href="https://faijahamed.frostglyph.com"></a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8A2BE2&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
   </p>
 </div>
 
