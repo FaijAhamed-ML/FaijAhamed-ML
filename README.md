@@ -6,8 +6,8 @@
   ### Building production-grade ML architectures, predictive intelligence systems, and secure AI integrations.
 
   <p align="center">
-    <a href="https://faijahamed.frostglyph.com"></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://faijahamed.frostglyph.com"><img src="https://img.shields.io/badge/Visit-My-PortfolioWebsite" alt="FaijAhamed"/></a>
+    <a href="https://www.linkedin.com/in/faijahamed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Academic Background:** Information Technology Student at **SLIIT** (Sri Lanka Institute of Information Technology), Faculty of Computing.
+- 🎓 **Academic Background:** artificial intelliget Student at **SLIIT** (Sri Lanka Institute of Information Technology), Faculty of Computing.
 - 💡 **Core AI Focus:** Predictive Machine Learning 
 - 🎨 **Bridging Design & Code:** As the founder of **FrostGlyph**.
 ---
