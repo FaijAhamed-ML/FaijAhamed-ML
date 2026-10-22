@@ -4,7 +4,7 @@
 
   ### AI/ML Engineering Student · Web Developer · Founder of FrostGlyph
 
-  Building predictive ML pipelines, full-stack web applications, and IoT-driven solutions that solve real-world problems.
+  Building predictive ML pipelines, AI Powered full-stack web applications, and IoT-driven solutions that solve real-world problems.
 
   <p align="center">
     <a href="https://faijahamed.frostglyph.com"><img src="https://img.shields.io/badge/Portfolio-faijahamed.frostglyph.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
