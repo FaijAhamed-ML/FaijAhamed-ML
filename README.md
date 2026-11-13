@@ -30,7 +30,7 @@
 |---|---|---|
 | **Diabetes Stage Prediction** (Team Lead) | ML pipeline and Random Forest classifier predicting diabetes stage from a ~97,000-entry dataset. Also converted into a full-stack web app. | Python, Scikit-Learn, Pandas, PHP, MySQL |
 | **ShopEase Lanka** | Team-built, full-stack e-shopping platform covering user, product, inventory, order, delivery, and review modules. | Spring Boot, MySQL, XAMPP |
-| **Water Tank Monitoring System** | Group IoT project for monitoring and controlling water tanks. | Arduino, ESP32, MicroPython |
+| **Water Tank Monitoring System** | Group IoT project for monitoring and controlling water tanks. | Arduino, ESP32 |
 | **ATOM-USDT Price Prediction** | Supervised ML model for cryptocurrency price prediction with per-algorithm model selection. | Python, Jupyter, Scikit-Learn |
 
 👉 More on my [portfolio](https://faijahamed.frostglyph.com).
