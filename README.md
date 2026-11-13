@@ -16,11 +16,11 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education:** BSc (Hons) in IT, specializing in Artificial Intelligence, at **SLIIT** (Sri Lanka Institute of Information Technology), Faculty of Computing.
+- 🎓 **Education:** BSc (Hons) IT specializing in **Artificial Intelligence**, at **SLIIT** (Sri Lanka Institute of Information Technology), Faculty of Computing.
 - 💡 **Core Focus:** Machine Learning/Artificial Intelligence.
 - 🌐 **Web Development:** AI Powered Full-stack applications with PHP, MySQL, Spring Boot, HTML, CSS, and JavaScript.
 - 🎨 **Design + Code:** Founder & CEO of **FrostGlyph**, with 6+ years of graphic design experience (Adobe Photoshop).
-- 🤝 **Community:** Active in IEEE student activities at SLIIT, including organizing committee roles for Industry360Cast and the Path to Internship 2026 event.
+- 🤝 **Community:** Active in IEEE student activities at SLIIT, including organizing committee roles for Industry360Cast and the Path to Internship 2026 event. more...
 
 ---
 
